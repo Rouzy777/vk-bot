@@ -1,0 +1,17 @@
+{
+  "name": "vk-bot",
+  "version": "1.0.0",
+  "description": "bot for vk",
+  "main": "bot.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "botact": "^2.4.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Alex",
+  "license": "ISC"
+}
